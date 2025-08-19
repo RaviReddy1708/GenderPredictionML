@@ -1,0 +1,7 @@
+user_id,text,gender_label,clean_text,sentiment_score
+1,I love shopping for new shoes and makeup!,female,i love shopping new shoes makeup,0.16666666666666666
+2,Watching the football match with my buddies tonight.,male,watching football match my buddies tonight,0.0
+3,Just bought a new laptop for coding projects.,male,bought new laptop coding projects,0.0
+4,Excited for the skincare routine I started.,female,excited skincare routine i started,0.2
+5,"Coffee, code, repeat. Life is good.",male,coffee code repeat life good,0.2
+6,Baking cookies for my family this weekend!,female,baking cookies my family weekend,0.0
